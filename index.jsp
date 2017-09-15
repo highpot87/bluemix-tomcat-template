@@ -9,5 +9,9 @@
 <body>
 	Test ページ
     <%="Out Put"%>
+    <table border="1">
+    <tr><th>1</th></tr>
+    <tr><td>値</td></tr>
+    </table>
 </body>
 </html>
